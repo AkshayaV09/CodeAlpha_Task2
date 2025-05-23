@@ -28,13 +28,13 @@ This is a simple command-line stock trading simulation platform written in Java.
 
 **Key Components**
 
-Stock Class: Represents individual stock with a symbol (e.g., AAPL) and a fixed price.
+**Stock Class:** Represents individual stock with a symbol (e.g., AAPL) and a fixed price.
 
-Portfolio Class: Manages user's stock holdings and cash balance. Provides methods to deposit/withdraw cash, buy/sell stocks, and display the portfolio.
+**Portfolio Class: ** Manages user's stock holdings and cash balance. Provides methods to deposit/withdraw cash, buy/sell stocks, and display the portfolio.
 
-Market Data: Simulated with a static map of predefined stocks (AAPL, GOOG, AMZN) with fixed prices.
+**Market Data: ** Simulated with a static map of predefined stocks (AAPL, GOOG, AMZN) with fixed prices.
 
-User Interaction: Text-based menu in the terminal to perform trading actions.
+**User Interaction: ** Text-based menu in the terminal to perform trading actions.
 
 
 
