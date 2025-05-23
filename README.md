@@ -14,6 +14,7 @@ Simulates stock prices with realistic fluctuations and data updates.
 Track all owned stocks, historical performance, and transaction history.
 
 **🛒 Buy/Sell Stocks**
+
 Place market or limit orders to simulate real trading behavior.
 
 **📊 Performance Analytics**
